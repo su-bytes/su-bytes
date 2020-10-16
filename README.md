@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AWS Cloud, Terraform, CICD Pipeline.
+- 🌱 I’m currently learning Terraform, Docker, Kubernetes.
+- 👯 I’m looking to collaborate.
+- 🤔 I’m looking for help with job.
+
 <!--
 **su-bytes/su-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=su-bytes&repo=su-bytes)
+
+
+![counter](https://en1f3pp2indtqjh.m.pipedream.net)
