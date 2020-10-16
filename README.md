@@ -2,23 +2,23 @@
 
 👩‍💻 **PROFESSIONAL SUMMARY:**
 
-•	Versatile IT experience working across cloud, hybrid and on-premise computing like AWS and SAP. Working experience in Agile Scrum SDLC.
-•	Worked on Cloud Infrastructure Management, Cloud Security, Infrastructure provisioning, CI/CD Pipelines, automating application build and deployment, 
+-	Versatile IT experience working across cloud, hybrid and on-premise computing like AWS and SAP. Working experience in Agile Scrum SDLC.
+-	Worked on Cloud Infrastructure Management, Cloud Security, Infrastructure provisioning, CI/CD Pipelines, automating application build and deployment, 
   End to end product testing, QC.
 
 👩‍💻 **CERTIFICATIONS:**
 
-• AWS Certified Solution Architect
-• HashiCorp Certified: Terraform Associate
-• Microsoft Azure Fundamentals Certified
-• Scrum Fundamentals Certified
-• Six Sigma - Yellow Belt
-• SAP Certified Application Associate
+- AWS Certified Solution Architect
+- HashiCorp Certified: Terraform Associate
+- Microsoft Azure Fundamentals Certified
+- Scrum Fundamentals Certified
+- Six Sigma - Yellow Belt
+- SAP Certified Application Associate
 
 ### Experience in:
 
-AWS Cloud: EC2, VPC, IAM, Organizations, Config, Cognito.
-DevOps Tools: Git, Jenkins, Terraform, Ansible, Docker.
+- AWS Cloud: EC2, VPC, IAM, S3 Bucket Policies, Organizations, Config, Cognito.
+- DevOps Tools: Git, Jenkins, Terraform, Ansible, Docker.
 
 - 🌱 I’m currently learning Terraform, Docker, Kubernetes.
 - 👯 I’m looking to collaborate.
@@ -29,8 +29,8 @@ https://www.linkedin.com/in/1suda/
 
 👩‍💻 **Interests:**
 
-• Travelling, Yoga.
-• Learning : Photography, German, Swimming
+- Travelling, Yoga.
+- Learning : Photography, German, Swimming
 
 <!--
 **su-bytes/su-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
