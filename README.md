@@ -1,9 +1,36 @@
-### Hi there 👋
+## Hi 👋
 
-- 🔭 I’m currently working on AWS Cloud, Terraform, CICD Pipeline.
+👩‍💻 **PROFESSIONAL SUMMARY:**
+
+•	Versatile IT experience working across cloud, hybrid and on-premise computing like AWS and SAP. Working experience in Agile Scrum SDLC.
+•	Worked on Cloud Infrastructure Management, Cloud Security, Infrastructure provisioning, CI/CD Pipelines, automating application build and deployment, 
+  End to end product testing, QC.
+
+👩‍💻 **CERTIFICATIONS:**
+
+• AWS Certified Solution Architect
+• HashiCorp Certified: Terraform Associate
+• Microsoft Azure Fundamentals Certified
+• Scrum Fundamentals Certified
+• Six Sigma - Yellow Belt
+• SAP Certified Application Associate
+
+### Experience in:
+
+AWS Cloud: EC2, VPC, IAM, Organizations, Config, Cognito.
+DevOps Tools: Git, Jenkins, Terraform, Ansible, Docker.
+
 - 🌱 I’m currently learning Terraform, Docker, Kubernetes.
 - 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with job.
+
+My LinkedIn Profile:
+https://www.linkedin.com/in/1suda/
+
+👩‍💻 **Interests:**
+
+• Travelling, Yoga.
+• Learning : Photography, German, Swimming
 
 <!--
 **su-bytes/su-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
